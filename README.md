@@ -1,1 +1,2 @@
-# Geriatrics
+# Fall-Detection-for-Elderly-People-Using-IOT
+A model which is used to solve the risk of elderly people from falling.Using Raspberry pi, the datas are captured and computed.The values are measured by accelerometer sensor. This system measures the fall of a person and sends message or call to the respective caretaker,once the fall of the elderly person is detected.The language used is Python. This helps in detecting three types of fall correctly.
